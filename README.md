@@ -36,3 +36,9 @@
 
 # Log Analytics Workspace
 <img width="1881" height="856" alt="image" src="https://github.com/user-attachments/assets/b3dfa608-4566-4497-aa16-137b8e2b14e0" />
+
+# geoip mapping with sample query
+# Creating watchlist
+<img width="1416" height="692" alt="image" src="https://github.com/user-attachments/assets/d51332dd-e258-4bb4-bc07-18b599d596f0" />
+<img width="1897" height="887" alt="image" src="https://github.com/user-attachments/assets/0edd70b3-5624-4689-9a0a-03aac9a3c740" />
+
